@@ -1,2 +1,2 @@
 # LPI
-exercicios_de_lpi
+Repo para exercicios de LPI. FATEC - Segundo semestre
