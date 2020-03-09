@@ -1,4 +1,9 @@
-//  
+//  Escreva um programa que, dada uma variável x com algum valor inteiro, temos um
+// novo x de acordo com a seguinte regra:
+// se x é par, x = x / 2
+// se x é impar, x = 3 * x + 1
+// imprime x
+// O programa deve parar quando x tiver o valor final de 1.
 import java.util.*;
 public class Exercise_seven {
 
