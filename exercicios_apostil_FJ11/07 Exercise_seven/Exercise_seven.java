@@ -12,12 +12,13 @@ public class Exercise_seven {
     }
 
     static int Odd(int n) {
-        return ((3 * n) + 1);
+        return ((3 * n) + 1);   
     }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
+        System.out.print(number + "->");
 
         while (number != 1) {
             if ((number%2) == 0) {
